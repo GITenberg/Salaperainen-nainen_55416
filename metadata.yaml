@@ -1,0 +1,29 @@
+_repo: Salaperainen-nainen_55416
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Lehto, Niilo
+    gutenberg_agent_id: '48324'
+    url: http://www.gutenberg.org/2009/agents/48324
+creator:
+  author:
+    agent_name: Collins, Wilkie
+    alias: Collins, William Wilkie
+    birthdate: 1824
+    deathdate: 1889
+    gutenberg_agent_id: '98'
+    url: http://www.gutenberg.org/2009/agents/98
+    wikipedia: http://en.wikipedia.org/wiki/Wilkie_Collins
+description: ''
+gutenberg_issued: '2017-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55416'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Salaperäinen nainen
+url: http://www.gutenberg.org/ebooks/55416
