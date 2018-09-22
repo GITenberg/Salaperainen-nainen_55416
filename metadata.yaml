@@ -1,10 +1,13 @@
 _repo: Salaperainen-nainen_55416
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Lehto, Niilo
     gutenberg_agent_id: '48324'
     url: http://www.gutenberg.org/2009/agents/48324
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Collins, Wilkie
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/98
     wikipedia: http://en.wikipedia.org/wiki/Wilkie_Collins
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55416#Salaperainen-nainen
 gutenberg_issued: '2017-08-23'
 gutenberg_type: Text
 identifiers:
